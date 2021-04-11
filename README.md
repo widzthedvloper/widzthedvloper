@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, there Widzmarc Jean Nesly Phelle here..!👋
+## I am a full-stack web developer.
 
-<!--
-**widzthedvloper/widzthedvloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer with 1+ years of experience applying industry standards for web development software. I had created a custom linter for ruby files and always working on other side projects.
 
-Here are some ideas to get you started:
+I have created a fair amount of projects related to the front end and back end. And earn a crazy amount of hours only people who are passionate about a subject are willing to spend to craft their skills :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also love spending some time on HackerRank hunting for coding challenges.
+
+- 🔭 I’m currently working on a personal project
+- 🌱 I’m always learning ...
+- 👯 I’m looking to collaborate on open source projects
+- 📫 How to reach me: widzmarc@gmail.com
+- ⚡ Fun fact: I prefere coding early in the morning :)
+
+
