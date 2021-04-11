@@ -11,6 +11,6 @@ I also love spending some time on HackerRank hunting for coding challenges.
 - 🌱 I’m always learning ...
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: widzmarc@gmail.com
-- ⚡ Fun fact: I prefere coding early in the morning :)
+- ⚡ Fun fact: I prefer coding early in the morning :)
 
 
