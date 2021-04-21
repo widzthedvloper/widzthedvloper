@@ -1,5 +1,5 @@
 # Hi, there Widzmarc Jean Nesly Phelle here..!👋
-## I am a full-stack web developer.
+## I am a Full-Stack web developer.
 
 I am a software engineer with 1+ years of experience applying industry standards for web development software. I had created a custom linter for ruby files and always working on other side projects.
 
