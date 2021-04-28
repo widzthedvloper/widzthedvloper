@@ -7,7 +7,7 @@ I have created a fair amount of projects related to the front end and back end. 
 
 I also love spending some time on HackerRank hunting for coding challenges.
 
-![WIDZMARC's GitHub stats](https://github-readme-stats.vercel.app/api?username=widzthedvloper&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=widzthedvloper)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m always learning ...
