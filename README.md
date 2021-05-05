@@ -13,7 +13,6 @@ I also love spending some time on HackerRank hunting for coding challenges.
 - 📫 How to reach me: widzmarc@gmail.com
 - ⚡ Fun fact: I prefer coding early in the morning :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=widzthedvloper&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=widzthedvloper&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![githubProfil](https://user-images.githubusercontent.com/69369667/114312280-229c5080-9ac0-11eb-8034-e6b2ba67117d.png)
