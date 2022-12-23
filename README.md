@@ -12,10 +12,10 @@ I have a Bachelor's degree in Computer Science and I am an avid learner with han
 I am passionate on providing the best experience in my work, starting from Information Architecture to User Experience
 
 • • • Skills • • •
-Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3
-Back-End: Ruby,Python, Ruby On Rails, MySQL
-Tools & Methods: Git, GitHub, Mobile/Responsive Development, RSpec, TDD, Chrome Dev Tools
-Professional: Remote Pair-Programming, Teamwork, Mentoring
+- Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3
+- Back-End: Ruby,Python, Ruby On Rails, MySQL
+- Tools & Methods: Git, GitHub, Mobile/Responsive Development, RSpec, TDD, Chrome Dev Tools
+- Professional: Remote Pair-Programming, Teamwork, Mentoring
 
 Let's get in touch. You can contact me at any given time to discuss about your project and ideas.
 
