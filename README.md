@@ -1,11 +1,23 @@
 # Hi, there Widzmarc Jean Nesly Phelle here..!👋
-## I am a Full-Stack web developer.
 
-I am a software engineer with 1+ years of experience applying industry standards for web development software. I had created a custom linter for ruby files and always working on other side projects.
+I am a certified Full-Stack Web Developer specializing in JavaScript, React, Ruby, Python, Ruby on Rails. I've worked with a few small startups and mostly leading, managing, assigning tasks to the developers team. I am quite experienced on working alongside with UI and UX designs team to assure a well delivered designed product. I am currently specializing in Cybersecurity and Digital Marketing in order to offer a full complete package service to my clients.
 
-I have created a fair amount of projects related to the front end and back end. And earn a crazy amount of hours only people who are passionate about a subject are willing to spend to craft their skills :)
+I can provide the following service with top quality:
+Markup(Email, Landing Page, Website)
+Optimization(SEO, Accessibility)
+Maintenance Services
 
-I also love spending some time on HackerRank hunting for coding challenges.
+I have a Bachelor's degree in Computer Science and I am an avid learner with hands-on skills for any Web Development job.
+
+I am passionate on providing the best experience in my work, starting from Information Architecture to User Experience
+
+• • • Skills • • •
+Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3
+Back-End: Ruby,Python, Ruby On Rails, MySQL
+Tools & Methods: Git, GitHub, Mobile/Responsive Development, RSpec, TDD, Chrome Dev Tools
+Professional: Remote Pair-Programming, Teamwork, Mentoring
+
+Let's get in touch. You can contact me at any given time to discuss about your project and ideas.
 
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m always learning ...
