@@ -13,7 +13,7 @@ I am passionate on providing the best experience in my work, starting from Infor
 
 • • • Skills • • •
 - Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3
-- Back-End: Ruby,Python, Ruby On Rails, MySQL
+- Back-End: Ruby, Python, Ruby On Rails, MySQL
 - Tools & Methods: Git, GitHub, Mobile/Responsive Development, RSpec, TDD, Chrome Dev Tools
 - Professional: Remote Pair-Programming, Teamwork, Mentoring
 
