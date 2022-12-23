@@ -3,9 +3,9 @@
 I am a certified Full-Stack Web Developer specializing in JavaScript, React, Ruby, Python, Ruby on Rails. I've worked with a few small startups and mostly leading, managing, assigning tasks to the developers team. I am quite experienced on working alongside with UI and UX designs team to assure a well delivered designed product. I am currently specializing in Cybersecurity and Digital Marketing in order to offer a full complete package service to my clients.
 
 I can provide the following service with top quality:
-Markup(Email, Landing Page, Website)
-Optimization(SEO, Accessibility)
-Maintenance Services
+- Markup(Email, Landing Page, Website)
+- Optimization(SEO, Accessibility)
+- Maintenance Services
 
 I have a Bachelor's degree in Computer Science and I am an avid learner with hands-on skills for any Web Development job.
 
