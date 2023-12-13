@@ -1,23 +1,5 @@
-# Hi, Widzmarc Jean Nesly Phelle here..!👋
-
-I am a certified Full-Stack Web Developer specializing in JavaScript, React, Ruby, Python, Ruby on Rails. I've worked with a few small startups and mostly leading, managing, assigning tasks to the developers team. I am quite experienced on working alongside with UI and UX designs team to assure a well delivered designed product.
-
-I can provide the following service with top quality:
-- Markup(Email, Landing Page, Website)
-- Optimization(SEO, Accessibility)
-- Maintenance Services
-
-I have a Bachelor's degree in Computer Science and I am an avid learner with hands-on skills for any Web Development job.
-
-I am passionate on providing the best experience in my work, starting from Information Architecture to User Experience
-
-• • • Skills • • •
-- Front-End: JavaScript, React, Redux, jQuery, HTML5, CSS3
-- Back-End: Ruby, Python, Ruby On Rails, MySQL
-- Tools & Methods: Git, GitHub, Mobile/Responsive Development, RSpec, TDD, Chrome Dev Tools
-- Professional: Remote Pair-Programming, Teamwork, Mentoring
-
-Let's get in touch. You can contact me at any given time to discuss about your project and ideas.
+# Widzmarc Jean Nesly Phelle👋
+Hey there! I’ve got a Bachelor's in Computer Science and a solid three years in web development. But what really lights my fire? AI, ML, and big data, they're my jam. Beyond the nitty-gritty tech, I’m fascinated by how tech and culture vibe together, you know? It’s like this dance between innovation and society, and I’m all about figuring out how they click. My thing? Connecting the dots between tech leaps and how they shape our world.
 
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m always learning ...
