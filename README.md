@@ -8,6 +8,6 @@ Hey there! I’ve got a Bachelor's in Computer Science and a solid three years i
 - ⚡ Fun fact: I prefer coding early in the morning :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=widzthedvloper&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widzthedvloper&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widzthedvloper&layout=donut&languages_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![githubProfil](https://user-images.githubusercontent.com/69369667/114312280-229c5080-9ac0-11eb-8034-e6b2ba67117d.png)
