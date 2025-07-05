@@ -1,6 +1,8 @@
 # Widzmarc Jean Nesly Phelle👋
 ![Banner](https://github.com/user-attachments/assets/feb7dd5c-652b-44b3-af0a-10e0d6bf08c0)  
-Hey there! I’ve got a Bachelor's in Computer Science and a solid three years in web development. But what really lights my fire? AI, ML, and big data, they're my jam. Beyond the nitty-gritty tech, I’m fascinated by how tech and culture vibe together, you know? It’s like this dance between innovation and society, and I’m all about figuring out how they click. My thing? Connecting the dots between tech leaps and how they shape our world.
+Software Engineer specialized in fullstack development with skills in Node.js, React.js, Next.js, TypeScript, JavaScript, Python, AWS, and Docker. Worked in various industries like telecommunications, gaming, talent consulting, and tech education, among others.
+
+I adapt fast to new challenges, work well with different teams, and communicate in a clear and simple way. I focus on practical, efficient solutions and enjoy turning ideas into real results through teamwork and technology.
 
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m always learning ...
